@@ -4,6 +4,15 @@
  */
 package latihan28;
 import java.util.Scanner;
+/**
+ *
+ * @author user 
+ Nama              : Bintang Fajar Nusantara 
+ Nim               : 22205028 
+ Prodi             : Teknik Informatika 
+ Kelas             : PBO 1
+ Deskripsi Program : Program ini berisi program Ganti Kata
+ */
 
 public class Latihan28 {
      public static void main(String[] args) {
